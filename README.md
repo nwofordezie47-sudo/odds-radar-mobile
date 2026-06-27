@@ -1,4 +1,4 @@
-# Odds Radar Mobile
+# Odds Radar 
 
 Odds Radar is a React Native mobile application built with Expo that tracks real-time prediction markets from Polymarket. It provides a sleek, dark-themed dashboard to monitor event probabilities, market volumes, and historical price trends.
 
